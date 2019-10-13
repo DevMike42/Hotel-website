@@ -12,5 +12,4 @@ A basic front end example of a hotel website using the Udemy Course Modern HTML 
   * Re-usable utility classes for repetitive styling
   * `:hover` and `:focus` selectors for interactive styling
 
-### Note
-This project is not yet deployed. 
+### [Check out the site!](https://sweetmike.github.io/hotel-website/)
